@@ -8,6 +8,8 @@ Adds the following features:
 - Keyboard navigation, press down from the search box to begin selecting roles, press enter to sign-in
 - Automatically sign-in to roles when selecting accounts with the mouse
 
+![Video Preview](images/demo.gif)
+
 ## How to install
 You will need to install a userscript engine such as Tampermonkey. This script has been tested in Tampermonkey for Chrome and Firefox.
 
